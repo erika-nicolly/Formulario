@@ -152,6 +152,7 @@ fieldset legend {
 
   background-image: url("data:image/svg+xml,%3Csvg width='24' height='24' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M8 10L12 14L16 10' stroke='%239C98A6' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E%0A");
   background-repeat: no-repeat;
+  background-position: right 24px top 50%;
 }
 
 .col-3 {
@@ -196,7 +197,7 @@ fieldset legend {
 }
 
 .checkbox-wrapper input:checked+label::before {
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' widht='24' height='24' viewBox='0 0 24 24' fill='none' xm1ns='https://www.w3.org/2000/svg'%3E%3Cpath d='M8 10L12 14L16 10'%0Astroke='%239C98A6' stroke-widht='1.5'%0Astroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+  background-image:  url("data:image/svg+xml,%3Csvg width='24' height='24' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M9.00016 16.1698L4.83016 11.9998L3.41016 13.4098L9.00016 18.9998L21.0002 6.99984L19.5902 5.58984L9.00016 16.1698Z' fill='%2342D3FF'/%3E%3C/svg%3E%0A");
 }
 
 .checkbox-wrapper input:focus+label::before {
@@ -212,7 +213,6 @@ footer {
   display: flex;
   flex-direction: column;
 
-
   padding: 40px 64px;
 
   margin-bottom: 100px;
@@ -225,7 +225,7 @@ footer {
 footer .button {
   height: 56px;
   background: #04d361;
-  border: 0;
+  border: none;
   border-radius: 8px;
 
   font-family: "Archivo", sans-serif;
@@ -239,9 +239,6 @@ footer .button {
 }
 
 footer .button:hover {
-  background: #0bb658;
-}
-
-input.invalid {
-  border: 1px solid red;
+  background: #03ae50;
+  cursor: pointer;
 }
