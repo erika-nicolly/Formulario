@@ -1,4 +1,4 @@
-# Projeto 03-Explorer-Rocketseat
+# Formulario
 
 ![Captura de Tela do Projeto](./.github/preview.png)
 
@@ -20,3 +20,6 @@ O Projeto-03 foi destinado a apresentar conceitos básicos de HTML e CSS. Nesse 
 - tipos de métodos que podem ser passados através de um formulário (GET e POST).
 - como estilizar o campo "select" através do CSS;
 - lidar com posicionamento, utilizar pseudo-classes e trabalhar com acessibilidade;
+
+## 🌐 Acesse o projeto
+👉 [Nome do Projeto](https://erika-nicolly.github.io/Formulario/)
