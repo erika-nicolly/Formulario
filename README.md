@@ -1,4 +1,4 @@
-# Formulario
+# Formulário
 
 ![Captura de Tela do Projeto](./.github/preview.png)
 
@@ -22,4 +22,4 @@ O Projeto-03 foi destinado a apresentar conceitos básicos de HTML e CSS. Nesse 
 - lidar com posicionamento, utilizar pseudo-classes e trabalhar com acessibilidade;
 
 ## 🌐 Acesse o projeto
-👉 [Nome do Projeto](https://erika-nicolly.github.io/Formulario/)
+👉 [Formulário](https://erika-nicolly.github.io/Formulario/)
