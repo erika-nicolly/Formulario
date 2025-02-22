@@ -9,9 +9,10 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS
 
+
 💻 Projeto
 
-O Projeto-03 foi destinado a apresentar conceitos básicos de HTML e CSS. Nesse projeto, tive a oportunidade de aprimorar meus conhecimentos sobre:
+Nesse Projeto foi destinado a apresentar conceitos básicos de HTML e CSS promovido pela Rocketseat para ensino de tecnologias WEB. Tive a oportunidade de aprimorar meus conhecimentos sobre:
 
 - formulários para capturar dados através da web.
 - tipos de input existentes no HTML (text, password, number e checkbox).
